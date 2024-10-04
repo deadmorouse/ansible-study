@@ -1,0 +1,13 @@
+---
+clickhouse:
+  hosts:
+    clickhouse-01:
+      ansible_host: 89.169.130.80
+      ansible_user: iksok
+
+
+vector:
+  hosts:
+    vector-01:
+      ansible_host: 89.169.130.80
+      ansible_user: iksok
